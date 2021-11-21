@@ -1,0 +1,23 @@
+[
+    {
+        "accountNumber": 1637011691877,
+        "customerID": 1,
+        "balance": 1000,
+        "createdTimestamp": "2021-11-15T21:28:11.877Z",
+        "lastUpdatedTimestamp": "2021-11-15T21:28:11.877Z"
+    },
+    {
+        "accountNumber": 1637011715460,
+        "customerID": 2,
+        "balance": 20000,
+        "createdTimestamp": "2021-11-15T21:28:35.460Z",
+        "lastUpdatedTimestamp": "2021-11-15T21:28:35.460Z"
+    },
+    {
+        "accountNumber": 1637011791907,
+        "customerID": 3,
+        "balance": 4000,
+        "createdTimestamp": "2021-11-15T21:29:51.907Z",
+        "lastUpdatedTimestamp": "2021-11-15T21:29:51.907Z"
+    }
+]
