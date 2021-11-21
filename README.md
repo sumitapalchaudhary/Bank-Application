@@ -10,3 +10,4 @@ API specifications can be found in this URL
 
 http://localhost:3000/api
 
+Note: Json file has been used as database to store the bank details.
